@@ -6,7 +6,7 @@ Email: getman_oleg@ukr.net
 
 
 I want to learn front-end coding and switch from my current work field.
-After from University graduating I worked as a surveyor and land surveyor in a government agency. Since 2014 I have been working in construction industry.
+After University started to work as a surveyor and land surveyor in a government agency. Since 2014 I have been working in construction industry.
 
 Skills
 I possess html and css at the basic entry level.
