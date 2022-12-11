@@ -1,19 +1,19 @@
-Гетьман Олег
+Ghetman Oleg
 
-Контакты:
-Тел.:+380994812474   email: getman_oleg@ukr.net
+Contacts:
+Phone: +380994812474 
+Email: getman_oleg@ukr.net
 
 
-Хочу освоить профессию фронт енд программирования и переключиться из своей нынешней сферы работы. 
-После окончания университета работал геодезистом и землеустроителем в государственном учреждении. С 2014 года работаю на стройке.
+I want to learn front-end coding and switch from my current work field.
+After from University graduating I worked as a surveyor and land surveyor in a government agency. Since 2014 I have been working in construction industry.
 
-Навыки 
-вледаею языком html и css на начальном базовом уровне.
+Skills
+I possess html and css at the basic entry level.
 
-Образование:
-Днепропетровский национальный аграрный университет.
-Бесплатные семинары и тренинги GoIT по html и css. 
+Education:
+Dnepropetrovsk National Agrarian University.
+Free GoIT seminars and trainings on html and css.
 
-Английский язык:
-Upper intermidiate
-
+English language:
+Upper intermediate
